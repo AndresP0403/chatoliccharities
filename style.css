@@ -1,0 +1,200 @@
+
+
+
+
+.navStateHousing {
+    width: 100%;
+    border: 3px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(153, 25, 25);
+}
+
+.ST {
+
+    box-sizing: border-box;
+
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.RU {
+    border: 3px solid rgb(5, 5, 43);
+    box-sizing: border-box;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(5, 5, 43)
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    padding: 5px;
+    width: 180px;
+    text-align: center;
+    float: left;
+    vertical-align: center;
+
+}
+
+li {
+    width: 10%;
+    border: 3px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    height: 50px;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+
+
+
+
+    display: inline-block;
+}
+
+li:last-child {
+    width: 55px;
+    height: 55px;
+    float: right;
+}
+
+ul {
+
+    text-align: center;
+}
+
+.OL {
+    border: 1px solid #ddd;
+    height: 140px;
+    width: 100%;
+
+}
+
+.button {
+    border: solid;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: #b8084a;
+    border-radius: 360px;
+    color: #ffffff;
+    vertical-align: middle;
+    width: 170px;
+    height: 55px;
+    font-size: 18px;
+    line-height: 55px;
+}
+
+.sr {
+    border: solid;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: #b8084a;
+    border-radius: 360px;
+    color: #ffffff;
+    vertical-align: middle;
+    width: 55px;
+    height: 55px;
+    font-size: 18px;
+    line-height: 55px;
+    float: right;
+    text-align: right;
+}
+
+.backgroundPhoto {
+    width: 100%;
+
+}
+
+#cta {
+    margin-bottom: 0cm;
+    z-index: 0;
+    background-image: url(img/231116-CCBMA-Thanksgiving-HP-Banner-v6-1536x568.jpg);
+    height: 570px;
+
+}
+
+
+#cta h1 {
+
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 220px;
+
+
+    font-size: 56px;
+    line-height: 76px;
+    color: white;
+    font-family: Quicksand, sans-serif;
+
+}
+
+#cta p {
+
+    width: 20%;
+    color: #ffffff;
+    position: relative;
+    overflow: hidden;
+    margin-left: 220px;
+    padding: 0px;
+    font-family: Nunito, sans-serif;
+
+}
+ 
+.giveNow{
+    border: solid;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: #b8084a;
+    border-radius: 360px;
+    color: #ffffff;
+    vertical-align: middle;
+    width: 170px;
+    height: 55px;
+    font-size: 18px;
+    line-height: 55px;
+    margin-left: 220px;
+    
+}
+#cte {
+    z-index: 0;
+   background-color: rgb(112, 112, 228);
+    height: 150px;
+border: 200px;
+
+padding-right: 460px;
+}
+#cte h2{
+     
+     margin-top: 0%;
+    color: #ffffff;
+    position: relative;
+    overflow: hidden;
+    margin-left: 100px;
+    padding: 20px;
+    font-family: Nunito, sans-serif;
+    border-left: 0;
+    font-size: 35px;
+}
+
+.subscription-form{
+    font-family: arial, helvetica, sans-serif;
+    display: inline-block;
+    
+    height: 65px;
+    font-size: 20px;
+    color: #262626;
+    line-height: 24px;
+    background: #e5e5e5;
+    border-radius: 360px;
+    margin-left: 850px;
+    padding: 13px;
+    margin-bottom: 300px;
+  }
+  
+    
+
