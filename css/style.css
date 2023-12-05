@@ -1,0 +1,8 @@
+main{
+    width: calc(100%-10px);
+    height: 150px;
+    background-color: rgb(127, 255, 212);
+    box-sizing: border-box;
+    margin: 10px;
+    float: left;
+}
